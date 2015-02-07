@@ -1,0 +1,16 @@
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\bin\Release\CitrixSoundLevelSave.exe.config
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\bin\Release\CitrixSoundLevelSave.exe
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\bin\Release\CitrixSoundLevelSave.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\bin\Release\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\bin\Release\CoreAudioApi.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\obj\Release\CitrixSoundLevelSave.exe
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\obj\Release\CitrixSoundLevelSave.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\bin\Release\CitrixSoundLevelKeeper.exe.config
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\bin\Release\CitrixSoundLevelKeeper.exe
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\bin\Release\CitrixSoundLevelKeeper.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\bin\Release\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\bin\Release\CoreAudioApi.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\obj\Release\CitrixSoundLevelKeeper.exe
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\obj\Release\CitrixSoundLevelKeeper.pdb

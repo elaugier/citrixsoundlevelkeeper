@@ -1,0 +1,10 @@
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\bin\Release\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\bin\Release\CoreAudioApi.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\obj\Release\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\obj\Release\CoreAudioApi.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\CoreAudioApi\bin\Release\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\CoreAudioApi\bin\Release\CoreAudioApi.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\CoreAudioApi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\CoreAudioApi\obj\Release\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelKeeper\CitrixSoundLevelKeeper\CoreAudioApi\obj\Release\CoreAudioApi.pdb

@@ -1,0 +1,5 @@
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\bin\Debug\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\bin\Debug\CoreAudioApi.pdb
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\obj\Debug\CoreAudioApi.dll
+C:\Users\ela.VTSC\Documents\Clients\VTSC-SOFTWARE\CitrixSoundLevelSave\CitrixSoundLevelSave\CoreAudioApi\obj\Debug\CoreAudioApi.pdb
